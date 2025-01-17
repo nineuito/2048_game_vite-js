@@ -7,7 +7,7 @@ const root = resolve(__dirname, './src');
 const outDir = resolve(__dirname, 'dist');
 
 export default defineConfig({
-  base: '/',
+  base: '/2048_game_vite-js/',
 
   preview: {
     port: 8080,
